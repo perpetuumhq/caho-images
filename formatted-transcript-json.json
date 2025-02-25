@@ -1,0 +1,765 @@
+{
+  "segments": [
+    {
+      "start": 5.6,
+      "end": 26.314999,
+      "text": "I had not one but two legacies to live up to. Actor, sportsperson, what would I be? I knew there was an artist in me craving to sing, dance, express. Finally, I found my calling. Oh, well, my calling found me.",
+      "words": [
+        {
+          "text": "I",
+          "startTime": "00:00:05,600",
+          "endTime": "00:00:06,320"
+        },
+        {
+          "text": "had",
+          "startTime": "00:00:06,320",
+          "endTime": "00:00:06,560"
+        },
+        {
+          "text": "not",
+          "startTime": "00:00:06,560",
+          "endTime": "00:00:06,800"
+        },
+        {
+          "text": "one",
+          "startTime": "00:00:06,800",
+          "endTime": "00:00:07,040"
+        },
+        {
+          "text": "but",
+          "startTime": "00:00:07,040",
+          "endTime": "00:00:07,280"
+        },
+        {
+          "text": "two",
+          "startTime": "00:00:07,280",
+          "endTime": "00:00:07,440"
+        },
+        {
+          "text": "legacies",
+          "startTime": "00:00:07,440",
+          "endTime": "00:00:07,920"
+        },
+        {
+          "text": "to",
+          "startTime": "00:00:07,920",
+          "endTime": "00:00:08,160"
+        },
+        {
+          "text": "live",
+          "startTime": "00:00:08,160",
+          "endTime": "00:00:08,320"
+        },
+        {
+          "text": "up",
+          "startTime": "00:00:08,320",
+          "endTime": "00:00:08,480"
+        },
+        {
+          "text": "to",
+          "startTime": "00:00:08,480",
+          "endTime": "00:00:09,040"
+        },
+        {
+          "text": "Actor",
+          "startTime": "00:00:11,120",
+          "endTime": "00:00:11,840"
+        },
+        {
+          "text": "sportsperson",
+          "startTime": "00:00:12,080",
+          "endTime": "00:00:13,280"
+        },
+        {
+          "text": "what",
+          "startTime": "00:00:13,440",
+          "endTime": "00:00:14,080"
+        },
+        {
+          "text": "would",
+          "startTime": "00:00:13,595",
+          "endTime": "00:00:13,835"
+        },
+        {
+          "text": "I",
+          "startTime": "00:00:13,835",
+          "endTime": "00:00:13,995"
+        },
+        {
+          "text": "be",
+          "startTime": "00:00:13,995",
+          "endTime": "00:00:14,555"
+        },
+        {
+          "text": "I",
+          "startTime": "00:00:15,755",
+          "endTime": "00:00:16,075"
+        },
+        {
+          "text": "knew",
+          "startTime": "00:00:16,075",
+          "endTime": "00:00:16,315"
+        },
+        {
+          "text": "there",
+          "startTime": "00:00:16,315",
+          "endTime": "00:00:16,475"
+        },
+        {
+          "text": "was",
+          "startTime": "00:00:16,475",
+          "endTime": "00:00:16,555"
+        },
+        {
+          "text": "an",
+          "startTime": "00:00:16,555",
+          "endTime": "00:00:16,715"
+        },
+        {
+          "text": "artist",
+          "startTime": "00:00:16,715",
+          "endTime": "00:00:17,035"
+        },
+        {
+          "text": "in",
+          "startTime": "00:00:17,035",
+          "endTime": "00:00:17,195"
+        },
+        {
+          "text": "me",
+          "startTime": "00:00:17,195",
+          "endTime": "00:00:17,595"
+        },
+        {
+          "text": "craving",
+          "startTime": "00:00:17,595",
+          "endTime": "00:00:18,155"
+        },
+        {
+          "text": "to",
+          "startTime": "00:00:18,155",
+          "endTime": "00:00:18,315"
+        },
+        {
+          "text": "sing",
+          "startTime": "00:00:18,315",
+          "endTime": "00:00:18,955"
+        },
+        {
+          "text": "dance",
+          "startTime": "00:00:19,035",
+          "endTime": "00:00:19,835"
+        },
+        {
+          "text": "express",
+          "startTime": "00:00:19,995",
+          "endTime": "00:00:20,875"
+        },
+        {
+          "text": "Finally",
+          "startTime": "00:00:22,075",
+          "endTime": "00:00:22,795"
+        },
+        {
+          "text": "I",
+          "startTime": "00:00:22,795",
+          "endTime": "00:00:22,875"
+        },
+        {
+          "text": "found",
+          "startTime": "00:00:22,875",
+          "endTime": "00:00:23,115"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:23,115",
+          "endTime": "00:00:23,275"
+        },
+        {
+          "text": "calling",
+          "startTime": "00:00:23,275",
+          "endTime": "00:00:23,915"
+        },
+        {
+          "text": "Oh",
+          "startTime": "00:00:24,155",
+          "endTime": "00:00:24,555"
+        },
+        {
+          "text": "well",
+          "startTime": "00:00:24,555",
+          "endTime": "00:00:25,035"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:25,275",
+          "endTime": "00:00:25,435"
+        },
+        {
+          "text": "calling",
+          "startTime": "00:00:25,435",
+          "endTime": "00:00:25,835"
+        },
+        {
+          "text": "found",
+          "startTime": "00:00:25,835",
+          "endTime": "00:00:26,155"
+        },
+        {
+          "text": "me",
+          "startTime": "00:00:26,155",
+          "endTime": "00:00:26,315"
+        }
+      ]
+    },
+    {
+      "start": 26.949999,
+      "end": 46.785,
+      "text": "I am Masaba Gupta, and Masaba is my identity. If you've seen, worn, or even heard of Masaba, you've known a bit of me. Bold, unconventional, quirky. My designs come from my own experiences. Every pattern waves out my story.",
+      "words": [
+        {
+          "text": "I",
+          "startTime": "00:00:26,950",
+          "endTime": "00:00:27,350"
+        },
+        {
+          "text": "am",
+          "startTime": "00:00:27,350",
+          "endTime": "00:00:27,590"
+        },
+        {
+          "text": "Masaba",
+          "startTime": "00:00:27,590",
+          "endTime": "00:00:28,070"
+        },
+        {
+          "text": "Gupta",
+          "startTime": "00:00:28,070",
+          "endTime": "00:00:28,790"
+        },
+        {
+          "text": "and",
+          "startTime": "00:00:29,350",
+          "endTime": "00:00:29,590"
+        },
+        {
+          "text": "Masaba",
+          "startTime": "00:00:29,590",
+          "endTime": "00:00:30,150"
+        },
+        {
+          "text": "is",
+          "startTime": "00:00:30,150",
+          "endTime": "00:00:30,390"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:30,390",
+          "endTime": "00:00:30,630"
+        },
+        {
+          "text": "identity",
+          "startTime": "00:00:30,630",
+          "endTime": "00:00:31,350"
+        },
+        {
+          "text": "If",
+          "startTime": "00:00:32,230",
+          "endTime": "00:00:32,550"
+        },
+        {
+          "text": "you've",
+          "startTime": "00:00:32,550",
+          "endTime": "00:00:32,790"
+        },
+        {
+          "text": "seen",
+          "startTime": "00:00:32,790",
+          "endTime": "00:00:33,350"
+        },
+        {
+          "text": "worn",
+          "startTime": "00:00:33,430",
+          "endTime": "00:00:34,150"
+        },
+        {
+          "text": "or",
+          "startTime": "00:00:34,150",
+          "endTime": "00:00:34,230"
+        },
+        {
+          "text": "even",
+          "startTime": "00:00:34,230",
+          "endTime": "00:00:34,550"
+        },
+        {
+          "text": "heard",
+          "startTime": "00:00:34,550",
+          "endTime": "00:00:34,710"
+        },
+        {
+          "text": "of",
+          "startTime": "00:00:34,710",
+          "endTime": "00:00:34,870"
+        },
+        {
+          "text": "Masaba",
+          "startTime": "00:00:34,870",
+          "endTime": "00:00:35,750"
+        },
+        {
+          "text": "you've",
+          "startTime": "00:00:35,750",
+          "endTime": "00:00:36,070"
+        },
+        {
+          "text": "known",
+          "startTime": "00:00:36,070",
+          "endTime": "00:00:36,230"
+        },
+        {
+          "text": "a",
+          "startTime": "00:00:36,230",
+          "endTime": "00:00:36,390"
+        },
+        {
+          "text": "bit",
+          "startTime": "00:00:36,390",
+          "endTime": "00:00:36,470"
+        },
+        {
+          "text": "of",
+          "startTime": "00:00:36,470",
+          "endTime": "00:00:36,630"
+        },
+        {
+          "text": "me",
+          "startTime": "00:00:36,630",
+          "endTime": "00:00:37,190"
+        },
+        {
+          "text": "Bold",
+          "startTime": "00:00:37,510",
+          "endTime": "00:00:38,390"
+        },
+        {
+          "text": "unconventional",
+          "startTime": "00:00:38,550",
+          "endTime": "00:00:39,750"
+        },
+        {
+          "text": "quirky",
+          "startTime": "00:00:40,070",
+          "endTime": "00:00:40,550"
+        },
+        {
+          "text": "My",
+          "startTime": "00:00:41,745",
+          "endTime": "00:00:42,065"
+        },
+        {
+          "text": "designs",
+          "startTime": "00:00:42,065",
+          "endTime": "00:00:42,385"
+        },
+        {
+          "text": "come",
+          "startTime": "00:00:42,385",
+          "endTime": "00:00:42,705"
+        },
+        {
+          "text": "from",
+          "startTime": "00:00:42,705",
+          "endTime": "00:00:42,945"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:42,945",
+          "endTime": "00:00:43,105"
+        },
+        {
+          "text": "own",
+          "startTime": "00:00:43,105",
+          "endTime": "00:00:43,265"
+        },
+        {
+          "text": "experiences",
+          "startTime": "00:00:43,265",
+          "endTime": "00:00:44,225"
+        },
+        {
+          "text": "Every",
+          "startTime": "00:00:44,625",
+          "endTime": "00:00:44,865"
+        },
+        {
+          "text": "pattern",
+          "startTime": "00:00:44,865",
+          "endTime": "00:00:45,265"
+        },
+        {
+          "text": "waves",
+          "startTime": "00:00:45,265",
+          "endTime": "00:00:45,745"
+        },
+        {
+          "text": "out",
+          "startTime": "00:00:45,745",
+          "endTime": "00:00:45,905"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:45,905",
+          "endTime": "00:00:46,145"
+        },
+        {
+          "text": "story",
+          "startTime": "00:00:46,145",
+          "endTime": "00:00:46,785"
+        }
+      ]
+    },
+    {
+      "start": 47.105,
+      "end": 72.20799,
+      "text": "Every motif mirrors my state of mind. I like to take something familiar and surprise people by giving it a new personality. Even today, I'm just a little girl draping mom's sari and making it my own. I'm no longer chasing a legacy, but leaving behind my own, one print at a time. If you stay authentic, if you're brewed the hard way, nothing can stop you.",
+      "words": [
+        {
+          "text": "Every",
+          "startTime": "00:00:47,105",
+          "endTime": "00:00:47,345"
+        },
+        {
+          "text": "motif",
+          "startTime": "00:00:47,345",
+          "endTime": "00:00:48,065"
+        },
+        {
+          "text": "mirrors",
+          "startTime": "00:00:48,065",
+          "endTime": "00:00:48,465"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:48,465",
+          "endTime": "00:00:48,705"
+        },
+        {
+          "text": "state",
+          "startTime": "00:00:48,705",
+          "endTime": "00:00:48,945"
+        },
+        {
+          "text": "of",
+          "startTime": "00:00:48,945",
+          "endTime": "00:00:49,025"
+        },
+        {
+          "text": "mind",
+          "startTime": "00:00:49,025",
+          "endTime": "00:00:49,585"
+        },
+        {
+          "text": "I",
+          "startTime": "00:00:49,905",
+          "endTime": "00:00:50,065"
+        },
+        {
+          "text": "like",
+          "startTime": "00:00:50,065",
+          "endTime": "00:00:50,305"
+        },
+        {
+          "text": "to",
+          "startTime": "00:00:50,305",
+          "endTime": "00:00:50,465"
+        },
+        {
+          "text": "take",
+          "startTime": "00:00:50,465",
+          "endTime": "00:00:50,625"
+        },
+        {
+          "text": "something",
+          "startTime": "00:00:50,625",
+          "endTime": "00:00:51,025"
+        },
+        {
+          "text": "familiar",
+          "startTime": "00:00:51,025",
+          "endTime": "00:00:51,505"
+        },
+        {
+          "text": "and",
+          "startTime": "00:00:51,505",
+          "endTime": "00:00:51,825"
+        },
+        {
+          "text": "surprise",
+          "startTime": "00:00:51,825",
+          "endTime": "00:00:52,385"
+        },
+        {
+          "text": "people",
+          "startTime": "00:00:52,385",
+          "endTime": "00:00:52,865"
+        },
+        {
+          "text": "by",
+          "startTime": "00:00:52,865",
+          "endTime": "00:00:53,105"
+        },
+        {
+          "text": "giving",
+          "startTime": "00:00:53,105",
+          "endTime": "00:00:53,345"
+        },
+        {
+          "text": "it",
+          "startTime": "00:00:53,345",
+          "endTime": "00:00:53,505"
+        },
+        {
+          "text": "a",
+          "startTime": "00:00:53,505",
+          "endTime": "00:00:53,665"
+        },
+        {
+          "text": "new",
+          "startTime": "00:00:53,665",
+          "endTime": "00:00:53,825"
+        },
+        {
+          "text": "personality",
+          "startTime": "00:00:53,825",
+          "endTime": "00:00:54,625"
+        },
+        {
+          "text": "Even",
+          "startTime": "00:00:55,105",
+          "endTime": "00:00:55,345"
+        },
+        {
+          "text": "today",
+          "startTime": "00:00:55,345",
+          "endTime": "00:00:55,745"
+        },
+        {
+          "text": "I'm",
+          "startTime": "00:00:56,130",
+          "endTime": "00:00:56,450"
+        },
+        {
+          "text": "just",
+          "startTime": "00:00:56,450",
+          "endTime": "00:00:56,690"
+        },
+        {
+          "text": "a",
+          "startTime": "00:00:56,690",
+          "endTime": "00:00:56,850"
+        },
+        {
+          "text": "little",
+          "startTime": "00:00:56,850",
+          "endTime": "00:00:57,010"
+        },
+        {
+          "text": "girl",
+          "startTime": "00:00:57,010",
+          "endTime": "00:00:57,410"
+        },
+        {
+          "text": "draping",
+          "startTime": "00:00:57,410",
+          "endTime": "00:00:57,890"
+        },
+        {
+          "text": "mom's",
+          "startTime": "00:00:57,890",
+          "endTime": "00:00:58,290"
+        },
+        {
+          "text": "sari",
+          "startTime": "00:00:58,290",
+          "endTime": "00:00:58,770"
+        },
+        {
+          "text": "and",
+          "startTime": "00:00:58,770",
+          "endTime": "00:00:59,090"
+        },
+        {
+          "text": "making",
+          "startTime": "00:00:59,090",
+          "endTime": "00:00:59,490"
+        },
+        {
+          "text": "it",
+          "startTime": "00:00:59,490",
+          "endTime": "00:00:59,650"
+        },
+        {
+          "text": "my",
+          "startTime": "00:00:59,650",
+          "endTime": "00:00:59,890"
+        },
+        {
+          "text": "own",
+          "startTime": "00:00:59,890",
+          "endTime": "00:01:00,370"
+        },
+        {
+          "text": "I'm",
+          "startTime": "00:01:00,690",
+          "endTime": "00:01:01,010"
+        },
+        {
+          "text": "no",
+          "startTime": "00:01:01,010",
+          "endTime": "00:01:01,250"
+        },
+        {
+          "text": "longer",
+          "startTime": "00:01:01,250",
+          "endTime": "00:01:01,490"
+        },
+        {
+          "text": "chasing",
+          "startTime": "00:01:01,490",
+          "endTime": "00:01:01,890"
+        },
+        {
+          "text": "a",
+          "startTime": "00:01:01,890",
+          "endTime": "00:01:02,050"
+        },
+        {
+          "text": "legacy",
+          "startTime": "00:01:02,050",
+          "endTime": "00:01:02,770"
+        },
+        {
+          "text": "but",
+          "startTime": "00:01:03,010",
+          "endTime": "00:01:03,170"
+        },
+        {
+          "text": "leaving",
+          "startTime": "00:01:03,170",
+          "endTime": "00:01:03,570"
+        },
+        {
+          "text": "behind",
+          "startTime": "00:01:03,570",
+          "endTime": "00:01:03,890"
+        },
+        {
+          "text": "my",
+          "startTime": "00:01:03,890",
+          "endTime": "00:01:04,210"
+        },
+        {
+          "text": "own",
+          "startTime": "00:01:04,210",
+          "endTime": "00:01:04,850"
+        },
+        {
+          "text": "one",
+          "startTime": "00:01:05,010",
+          "endTime": "00:01:05,330"
+        },
+        {
+          "text": "print",
+          "startTime": "00:01:05,330",
+          "endTime": "00:01:05,650"
+        },
+        {
+          "text": "at",
+          "startTime": "00:01:05,650",
+          "endTime": "00:01:05,890"
+        },
+        {
+          "text": "a",
+          "startTime": "00:01:05,890",
+          "endTime": "00:01:06,050"
+        },
+        {
+          "text": "time",
+          "startTime": "00:01:06,050",
+          "endTime": "00:01:06,530"
+        },
+        {
+          "text": "If",
+          "startTime": "00:01:07,090",
+          "endTime": "00:01:07,410"
+        },
+        {
+          "text": "you",
+          "startTime": "00:01:07,410",
+          "endTime": "00:01:07,570"
+        },
+        {
+          "text": "stay",
+          "startTime": "00:01:07,570",
+          "endTime": "00:01:07,810"
+        },
+        {
+          "text": "authentic",
+          "startTime": "00:01:07,810",
+          "endTime": "00:01:08,610"
+        },
+        {
+          "text": "if",
+          "startTime": "00:01:08,850",
+          "endTime": "00:01:09,010"
+        },
+        {
+          "text": "you're",
+          "startTime": "00:01:09,010",
+          "endTime": "00:01:09,330"
+        },
+        {
+          "text": "brewed",
+          "startTime": "00:01:09,330",
+          "endTime": "00:01:09,650"
+        },
+        {
+          "text": "the",
+          "startTime": "00:01:09,650",
+          "endTime": "00:01:09,810"
+        },
+        {
+          "text": "hard",
+          "startTime": "00:01:09,810",
+          "endTime": "00:01:10,050"
+        },
+        {
+          "text": "way",
+          "startTime": "00:01:10,050",
+          "endTime": "00:01:10,290"
+        },
+        {
+          "text": "nothing",
+          "startTime": "00:01:10,928",
+          "endTime": "00:01:11,408"
+        },
+        {
+          "text": "can",
+          "startTime": "00:01:11,408",
+          "endTime": "00:01:11,648"
+        },
+        {
+          "text": "stop",
+          "startTime": "00:01:11,648",
+          "endTime": "00:01:11,968"
+        },
+        {
+          "text": "you",
+          "startTime": "00:01:11,968",
+          "endTime": "00:01:12,208"
+        }
+      ]
+    }
+  ]
+}
